@@ -1,0 +1,3 @@
+The ansible configuration file governs the default behavior of Ansible using a set of parameters.
+An Ansible configuration file is divided into several sections.
+  
